@@ -1,0 +1,9 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+
+@import "partials/variables";
+@import "partials/sidebar";
+@import "partials/main";
+@import "partials/playbar";
