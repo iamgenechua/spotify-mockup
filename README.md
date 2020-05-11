@@ -7,3 +7,4 @@
 <h5> Use of SVGs </h5>
 <h2> Mock-up </h2>
 
+<img src="mockup.png">
